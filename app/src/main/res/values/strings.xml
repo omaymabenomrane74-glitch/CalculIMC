@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcul IMC</string>
+    <string name="titre_imc">Calcul de IMC</string>
+    <string name="poids_hind">Poids en kg</string>
+    <string name="taille_hind">taille en m </string>
+    <string name="calculer">Calculer</string>
+    <string name="effacer">Effacer</string>
+    <string name="resultat_imc">IMC : </string>
+    <string name="categorie">Catégorie : </string>
+</resources>
